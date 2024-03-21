@@ -2,4 +2,4 @@
 
 ## Limitations: 
 * Cant detect small license plate relative to image
-* Cant read multiple license plate in one iamge
+* Cant read multiple license plate in one image
