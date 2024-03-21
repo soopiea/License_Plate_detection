@@ -1,0 +1,7 @@
+file_location,license_plate,confidence_score
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars219_png.rf.b59a6d384d12a2c69a39f71e37a3318d.jpg,KA:03 MG . 2784,0.42713768638381555
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars340_png.rf.a01c2a253924dd08c66b7bde37d5e449.jpg,WXSAFML,0.09346345990243458
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars54_png.rf.cb6867c72116a0b5e843d70cbe18c480.jpg,TK 378,0.26928805234530345
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars79_png.rf.815e116d3d6cdd445ef1a99e8c9cff4e.jpg,LGET QIL,0.6483537314879029
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars82_png.rf.90607df58f8987cc60238b328b92d75b.jpg,GaLiai,0.0033372245903093354
+/home/sopi/projects/License_Plate_detection/run_test_images/Cars289_png.rf.1979df9a93a5d48a897d229063243eec.jpg,532h,0.9772355556488037
